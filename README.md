@@ -24,6 +24,7 @@
                 send a message
             </h2>
             <form action="">
+                <ul>
                 <div>
                     <label for="name">your name</label>
                     <input type="text" id="name">
@@ -48,6 +49,7 @@
                  </div>
                  <input type="submit"value="send"/>
             </div>
+        </ul>
             </form>
         </main>
         </header>
