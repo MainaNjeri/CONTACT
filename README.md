@@ -36,15 +36,11 @@
                     <label for="product">product</label>
                     <select name="product"id="product"></select>
 
-                    <div><option value="mobile">mobile Application</option>
-                        <input type="mobile" id="mobile"></div>
-                  <div>  <option value="other">other</option>
-                    <input type="other" id="other"></div>
-
-                    <div><option value="desktop">desktop</option>
-                        <input type="desktop" id="desktop"></div>
-                   <div> <option value="web">web Application</option>
-                    <input type="web" id="web"></div>
+                    <option value="mobile">mobile Application</option>
+                    <option value="other">other</option>
+                    <option value="desktop">desktop</option>
+                    <option value="web">web Application</option>
+                    </select>
                 </div>
                 <div>
                     <label for="message">message</label> 
