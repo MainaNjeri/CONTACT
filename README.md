@@ -23,8 +23,7 @@
             <h2>
                 send a message
             </h2>
-            <form action="">
-                <ul>
+            <form action=""
                 <div>
                     <label for="name">your name</label>
                     <input type="text" id="name">
@@ -37,7 +36,8 @@
                     <label for="product">product</label>
                     <select name="product"id="product"></select>
 
-                    <option value="mobile">mobile Application</option>
+                    <ul>
+                        <option value="mobile">mobile Application</option>
                     <option value="other">other</option>
                     <option value="desktop">desktop</option>
                     <option value="web">web Application</option>
