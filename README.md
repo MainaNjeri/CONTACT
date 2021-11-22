@@ -53,14 +53,14 @@
         </header>
 </body>
 <footer>
-    
+    <ul>
         <li> <a href="">Github</a></li>
         <li> <a href="">Twiter</a></li>
         <li> <a href="">Instagram</a></li>
         <li> <a href="">LinkedIn</a></li>
         <li> <a href="">mailto</a></li>
 
-
+</ul>
     
 </footer>
 </html>
